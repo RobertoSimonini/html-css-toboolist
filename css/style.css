@@ -1,0 +1,46 @@
+
+/* Css reset  */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+
+/* Intestazione della pagina  */
+#main-header {
+    background-color: white;
+    height: 100px;
+}
+
+#logo {
+    height: 50px; 
+    line-height: 100px;
+    vertical-align: middle;
+    padding-left: 20px;    
+}
+
+figure {
+    display: inline;    
+}
+
+h1 {
+    font-size: 50px;
+    display: inline;
+    vertical-align: middle;
+    line-height: 100px;
+    font-family: sans-serif;
+}
+
+
+/* Generics  */
+
+
+/* Utilities  */
+body {
+    background-color: grey;
+}
+
+
